@@ -1,0 +1,2 @@
+# Archbasedosfiles
+THIS WILL BE USED FOR GIT, NOT FOR ANYTHING ELSE.
